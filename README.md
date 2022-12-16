@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Professional24
 - 👀 I’m interested in learning.
-- 🌱 I’m currently training to become a Data Scientist.
+- 🌱 I have recently completed a Data Science training.
 - 💞️ I’m looking forward to using my skills professionally.
 - 📫 I can be reached at ekechristiana27@gmail.com
 
