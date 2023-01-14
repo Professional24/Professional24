@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Professional24
-- 👀 I’m interested in learning.
-- 🌱 I have completed a Data Science training.
-- 💞️ I’m looking forward to using my skills professionally.
+- 👀 I’m a trained Data Science professional. 
+- 🌱 I work by analysing and creating data visualisation dashboards using Tableau.
+- 💞️ I use my skills to help companies.
 - 📫 I can be reached at Ekec12@outlook.com
 -     My Tableau visualisations can be found by visiting this link: https://public.tableau.com/app/profile/christiana.eke/viz/
 
